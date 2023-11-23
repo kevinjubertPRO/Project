@@ -1,0 +1,118 @@
+iso_3166_alpha_2,iso_3166_alpha_3,country_netflix_code_name,continent,country_en,country_fr,capital_city,capital_city_latitiude,capital_city_longitude
+AF,AFG,Afghanistan,Asia,Afghanistan,Afghanistan,Kabul,34.55556,69.2075
+AL,ALB,Albania,Europe,Albania,Albanie,Tirana,41.3275,19.8189
+DZ,DZA,Algeria,Africa,Algeria,Alg�rie,Algiers,36.75278,3.042222
+AO,AGO,Angola,Africa,Angola,Angola,Luanda,-8.8368,13.233174
+AR,ARG,Argentina,South America,Argentina,Argentine,Buenos Aires,-34.61178,-58.4173
+AM,ARM,Armenia,Asia,Armenia,Arm�nie,Yerevan,40.1772,44.5037
+AU,AUS,Australia,Oceania,Australia,Australie,Canberra,-35.282,149.1287
+AT,AUT,Austria,Europe,Austria,Autriche,Vienna,48.2201,16.3798
+AZ,AZE,Azerbaijan,Asia,Azerbaijan,Azerba�djan,Baku,40.3831,49.8932
+BS,BHS,Bahamas,North America,Bahamas,Bahamas,Nassau,25.0661,-77.339
+BD,BGD,Bangladesh,Asia,Bangladesh,Bangladesh,Dhaka,23.8103,90.4125
+BY,BLR,Belarus,Europe,Belarus,Bi�lorussie,Minsk,53.9678,27.5766
+BE,BEL,Belgium,Europe,Belgium,Belgique,Brussels,50.8371,4.3676
+BM,BMU,Bermuda,North America,Bermuda,Bermudes,Hamilton,32.2942,-64.7839
+BW,BWA,Botswana,Africa,Botswana,Botswana,Gaborone,-24.6544,25.9087
+BR,BRA,Brazil,South America,Brazil,Br�sil,Bras�lia,-15.7801,-47.9292
+BG,BGR,Bulgaria,Europe,Bulgaria,Bulgarie,Sofia,42.6977,23.3219
+KH,KHM,Cambodia,Asia,Cambodia,Cambodge,Phnom Penh,11.5434,104.8984
+CA,CAN,Canada,North America,Canada,Canada,Ottawa,45.4215,-75.6993
+KY,CYM,Cayman Islands,North America,Cayman Islands,�les Ca�mans,George Town,19.3022,-81.3862
+CL,CHL,Chile,South America,Chile,Chili,Santiago,-33.4691,-70.642
+CN,CHN,China,Asia,China,Chine,Beijing,39.9042,116.4074
+CO,COL,Colombia,South America,Colombia,Colombie,Bogot�,4.6097,-74.0817
+HR,HRV,Croatia,Europe,Croatia,Croatie,Zagreb,45.815,15.9664
+CU,CUB,Cuba,Caribbean,Cuba,Cuba,Havana,23.1136,-82.3666
+CY,CYP,Cyprus,Europe,Cyprus,Chypre,Nicosia,35.1854,33.3822
+CZ,CZE,Czech Republic,Europe,Czech Republic,R�publique tch�que,Prague,50.0755,14.4378
+DK,DNK,Denmark,Europe,Denmark,Danemark,Copenhagen,55.6761,12.5683
+DO,DOM,Dominican Republic,North America,Dominican Republic,R�publique dominicaine,Santo Domingo,18.479,-69.8908
+DE,DEU,East Germany,Europe,Germany,Allemagne,Berlin,52.5201,13.405
+EC,ECU,Ecuador,South America,Ecuador,�quateur,Quito,-0.2295,-78.5249
+EG,EGY,Egypt,Africa,Egypt,�gypte,Cairo,30.033,31.2336
+FI,FIN,Finland,Europe,Finland,Finlande,Helsinki,60.1695,24.9354
+FR,FRA,France,Europe,France,France,Paris,48.8566,2.3522
+GE,GEO,Georgia,Asia,Georgia,G�orgie,Tbilisi,41.7168,44.8277
+DE,DEU,Germany,Europe,Germany,Allemagne,Berlin,52.5201,13.405
+GH,GHA,Ghana,Africa,Ghana,Ghana,Accra,5.560014,-0.205744
+GR,GRC,Greece,Europe,Greece,Gr�ce,Athens,37.9838,23.7275
+GT,GTM,Guatemala,North America,Guatemala,Guatemala,Guatemala City,14.634915,-90.506882
+HK,HKG,Hong Kong,Asia,China,Hong Kong,Hong Kong,22.31930,114.16940
+HU,HUN,Hungary,Europe,Hungary,Hongrie,Budapest,47.4979,19.0402
+IS,ISL,Iceland,Europe,Iceland,Islande,Reykjavik,64.1472,-21.9324
+IN,IND,India,Asia,India,Inde,New Delhi,28.6139,77.209
+ID,IDN,Indonesia,Asia,Indonesia,Indon�sie,Jakarta,-6.2088,106.8456
+IR,IRN,Iran,Asia,Iran,Iran,Tehran,35.6895,51.389
+IQ,IRQ,Iraq,Asia,Iraq,Irak,Baghdad,33.3152,44.3664
+IE,IRL,Ireland,Europe,Ireland,Irlande,Dublin,53.349805,-6.26031
+IL,ISR,Israel,Asia,Israel,Isra�l,Jerusalem,31.7683,35.2137
+IT,ITA,Italy,Europe,Italy,Italie,Rome,41.9028,12.4964
+JM,JAM,Jamaica,Caribbean,Jamaica,Jama�que,Kingston,17.971,-76.792
+JP,JPN,Japan,Asia,Japan,Japon,Tokyo,35.6895,139.6917
+JO,JOR,Jordan,Middle East,Jordan,Jordanie,Amman,31.9497,35.9322
+KZ,KAZ,Kazakhstan,Asia,Kazakhstan,Kazakhstan,Nur-Sultan,51.1657,71.4404
+KE,KEN,Kenya,Africa,Kenya,Kenya,Nairobi,-1.286389,36.817223
+KW,KWT,Kuwait,Middle East,Kuwait,Kowe�t,Kuwait City,29.3759,47.9774
+LV,LVA,Latvia,Europe,Latvia,Lettonie,Riga,56.9465,24.1049
+LB,LBN,Lebanon,Middle East,Lebanon,Liban,Beirut,33.8938,35.5018
+LI,LIE,Liechtenstein,Europe,Liechtenstein,Liechtenstein,Vaduz,47.1414,9.5215
+LT,LTU,Lithuania,Europe,Lithuania,Lituanie,Vilnius,54.6896,25.2799
+LU,LUX,Luxembourg,Europe,Luxembourg,Luxembourg,Luxembourg City,49.6117,6.13
+MW,MWI,Malawi,Africa,Malawi,Malawi,Lilongwe,-13.9635,33.7741
+MY,MYS,Malaysia,Asia,Malaysia,Malaisie,Kuala Lumpur,3.139,101.6869
+MT,MLT,Malta,Europe,Malta,Malte,Valletta,35.9042,14.5189
+MU,MUS,Mauritius,Africa,Mauritius,Maurice,Port Louis,-20.1619,57.4989
+MX,MEX,Mexico,North America,Mexico,Mexique,Mexico City,19.4326,-99.1332
+MN,MNG,Mongolia,Asia,Mongolia,Mongolie,Ulaanbaatar,47.8864,106.905
+ME,MNE,Montenegro,Europe,Montenegro,Mont�n�gro,Podgorica,42.4426,19.2685
+MA,MAR,Morocco,Africa,Morocco,Maroc,Rabat,34.0209,-6.8416
+NA,NAM,Namibia,Africa,Namibia,Namibie,Windhoek,-22.559722,17.0836
+NP,NPL,Nepal,Asia,Nepal,N�pal,Kathmandu,27.7172,85.324
+NL,NLD,Netherlands,Europe,Netherlands,Pays-Bas,Amsterdam,52.3676,4.9041
+NZ,NZL,New Zealand,Oceania,New Zealand,Nouvelle-Z�lande,Wellington,-41.2866,174.7756
+NI,NIC,Nicaragua,North America,Nicaragua,Nicaragua,Managua,12.114,-86.2362
+NG,NGA,Nigeria,Africa,Nigeria,Nig�ria,Abuja,9.0579,7.4951
+NO,NOR,Norway,Europe,Norway,Norv�ge,Oslo,59.9139,10.7522
+PK,PAK,Pakistan,Asia,Pakistan,Pakistan,Islamabad,33.6844,73.0479
+PA,PAN,Panama,North America,Panama,Panama,Panama City,8.9824,-79.5199
+PY,PRY,Paraguay,South America,Paraguay,Paraguay,Asunci�n,-23.442503,-58.4438
+PE,PER,Peru,South America,Peru,P�rou,Lima,-12.0464,-77.0428
+PH,PHL,Philippines,Asia,Philippines,Philippines,Manila,13.41,122.56
+PL,POL,Poland,Europe,Poland,Pologne,Warsaw,52.2297,21.0122
+PT,PRT,Portugal,Europe,Portugal,Portugal,Lisbon,38.7223,-9.1393
+PR,PRI,Puerto Rico,North America,Puerto Rico,Porto Rico,San Juan,18.4655,-66.1057
+QA,QAT,Qatar,Middle East,Qatar,Qatar,Doha,25.276987,51.520008
+RO,ROU,Romania,Europe,Romania,Roumanie,Bucharest,44.4268,26.1025
+RU,RUS,Russia,Europe,Russia,Russie,Moscow,55.7558,37.6176
+WS,WSM,Samoa,Oceania,Samoa,Samoa,Apia,-13.8342,-171.767
+SA,SAU,Saudi Arabia,Middle East,Saudi Arabia,Arabie saoudite,Riyadh,24.711,46.7247
+SN,SEN,Senegal,Africa,Senegal,S�n�gal,Dakar,14.6924,-17.4467
+RS,SRB,Serbia,Europe,Serbia,Serbie,Belgrade,44.7866,20.4489
+SG,SGP,Singapore,Asia,China,Singapour,Singapour,1.35210,103.81980
+SK,SVK,Slovakia,Europe,Slovakia,Slovaquie,Bratislava,48.1484,17.1073
+SI,SVN,Slovenia,Europe,Slovenia,Slov�nie,Ljubljana,46.0569,14.5058
+SO,SOM,Somalia,Africa,Somalia,Somalie,Mogadishu,2.0469,45.3182
+ZA,ZAF,South Africa,Africa,South Africa,Afrique du Sud,Pretoria,-25.7461,28.1881
+KR,KOR,South Korea,Asia,South Korea,Cor�e du Sud,Seoul,37.5665,126.978
+RU,RUS,Soviet Union,Europe,Russia,Russie,Moscow,55.7558,37.6176
+ES,ESP,Spain,Europe,Spain,Espagne,Madrid,40.4167,-3.7038
+LK,LKA,Sri Lanka,Asia,Sri Lanka,Sri Lanka,Colombo,6.9271,79.8612
+SD,SDN,Sudan,Africa,Sudan,Soudan,Khartoum,15.5007,32.5599
+SE,SWE,Sweden,Europe,Sweden,Su�de,Stockholm,59.3293,18.0686
+CH,CHE,Switzerland,Europe,Switzerland,Suisse,Bern,46.948,7.4474
+SY,SYR,Syria,Middle East,Syria,Syrie,Damascus,33.5138,36.2765
+TW,TWN,Taiwan,Asia,Taiwan,Ta�wan,Taipei,25.033,121.5654
+TH,THA,Thailand,Asia,Thailand,Tha�lande,Bangkok,13.7563,100.5018
+TR,TUR,Turkey,Middle East,Turkey,Turquie,Ankara,39.9334,32.8597
+UG,UGA,Uganda,Africa,Uganda,Ouganda,Kampala,0.3136,32.5811
+UA,UKR,Ukraine,Europe,Ukraine,Ukraine,Kiev,50.4501,30.5234
+AE,ARE,United Arab Emirates,Middle East,United Arab Emirates,�mirats arabes unis,Abu Dhabi,24.4667,54.3667
+GB,GBR,United Kingdom,Europe,United Kingdom,Royaume-Uni,London,51.5074,-0.1278
+US,USA,United States,North America,United States,�tats-Unis,Washington,38.8951,-77.0364
+UY,URY,Uruguay,South America,Uruguay,Uruguay,Montevideo,-34.9011,-56.1915
+VA,VAT,Vatican City,Europe,Vatican City,Vatican,Vatican City,41.9029,12.4534
+VE,VEN,Venezuela,South America,Venezuela,Venezuela,Caracas,10.4914,-66.8792
+VN,VNM,Vietnam,Asia,Vietnam,Vi�t Nam,Hanoi,21.0285,105.8542
+DE,DEU,West Germany,Europe,Germany,Allemagne,Berlin,52.5201,13.405
+ZW,ZWE,Zimbabwe,Africa,Zimbabwe,Zimbabwe,Harare,-17.8292,31.0522
